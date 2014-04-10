@@ -8,7 +8,7 @@ Currently offers a simple class to transliterate Serbian cyrillic to latin scrip
 Example usage:
 
 ```php
-require_once 'DatingVIP/i18n/Serbian.php';
+require_once 'src/DatingVIP/i18n/Serbian.php';
 
 use DatingVIP\i18n\Serbian;
 
