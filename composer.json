@@ -1,0 +1,24 @@
+{
+    "name": "DatingVIP/i18n",
+    "type": "library",
+    "description": "i18n helpers (transliteration)",
+    "keywords": ["transliteration","Serbian"],
+    "homepage": "https://github.com/DatingVIP/i18n",
+    "license": "LGPLv3",
+    "authors": [
+        {
+            "name": "Boris Momčilović",
+            "email": "boris@firstbeatmedia.com",
+            "homepage": "http://firstbeatmedia.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "DatingVIP": "src"
+        }
+    }
+}
