@@ -1,4 +1,17 @@
-Transliterate
+i18n
 =============
 
-Transliteration helper
+i18n helpers
+
+Currently offers a simple class to transliterate Serbian cyrillic to latin script and vice versa.
+
+Example usage:
+
+```php
+require_once 'DatingVIP/i18n/Serbian.php';
+
+use DatingVIP\i18n\Serbian;
+
+echo Serbian::cyr2lat ('ћевапчић');
+// outputs: ćevapčić
+```
