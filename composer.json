@@ -1,5 +1,5 @@
 {
-    "name": "DatingVIP/i18n",
+    "name": "datingvip/i18n",
     "type": "library",
     "description": "i18n helpers (transliteration)",
     "keywords": ["transliteration","Serbian"],
