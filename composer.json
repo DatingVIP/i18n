@@ -4,7 +4,7 @@
     "description": "i18n helpers (transliteration)",
     "keywords": ["transliteration","Serbian"],
     "homepage": "https://github.com/DatingVIP/i18n",
-    "license": "LGPLv3",
+    "license": "LGPL-3.0-or-later",
     "authors": [
         {
             "name": "Boris Momčilović",
